@@ -1,0 +1,28 @@
+{
+  "name": "alia-chatgpt",
+  "version": "1.0.1",
+  "description": "Free Node.js library for OpenAI has no apikey or limit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alya-tok/chatgpt.git"
+  },
+  "keywords": [
+    "openai",
+    "gpt-chat",
+    "chatgpt",
+    "aliachatgpt"
+  ],
+  "author": "@Alia uhuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alya-tok/chatgpt/issues"
+  },
+  "homepage": "https://github.com/alya-tok/chatgpt#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
